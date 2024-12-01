@@ -1,0 +1,23 @@
+.carousel-item{
+    height: 500px; ;
+}
+
+.carousel-image-1{
+    background-image: url('img/img1.png') ;
+    background-size: cover;
+}
+
+.carousel-image-2{
+    background-image: url('img/img2.png');
+    background-size: cover;
+}
+.carousel-image-3{
+    background-image: url('img/img3.png') ;
+    background-size: cover;
+}
+
+.section.footer p{
+    font-size: 1rem;
+    text-align: center;
+    padding: 5rem;
+}
